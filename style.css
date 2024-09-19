@@ -37,3 +37,16 @@ header .logo{
   font-weight: bolder;
 }
 
+header .logo span{
+  color:var(--pink);
+}
+
+header .navbar a{
+  font-size: 2rem;
+  padding:0 1.5rem;
+  color:#666;
+}
+
+header .navbar a:hover{
+  color:var(--pink);
+}
