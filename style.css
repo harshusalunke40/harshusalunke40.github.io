@@ -182,5 +182,11 @@ header .navbar{
     border:.1rem solid rgba(0,0,0,.1);
     display:block;
   }
-
+  .home .content h3{
+    font-size: 5rem;
 }
+@media (max-width:450px){
+
+  html{
+    font-size: 50%;
+  }
